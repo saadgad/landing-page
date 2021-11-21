@@ -143,9 +143,9 @@ p{
 .subscribe-button button{
     color: #f9faf8;
     font-size: 20px;
-    background-color:none;
-    border-color: #f9faf8;
-    border: 2px;
+    background-color:transparent;
+    
+    border: 2px #f9faf8 solid;
     border-radius: 6px; 
     display: flex;
 }
